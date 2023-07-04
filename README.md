@@ -1,4 +1,4 @@
-# Calculadora usando Tkinter
+# Calculadora usando Tkinter 
 
 Este é um exemplo de código em Python que implementa uma calculadora com uma interface gráfica usando a biblioteca Tkinter. A calculadora permite realizar operações básicas de adição, subtração, multiplicação e divisão, além de cálculos de porcentagem.
 
