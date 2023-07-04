@@ -1,4 +1,4 @@
-# Documentação da Calculadora com GUI usando Tkinter
+# Documentação da Calculadora usando Tkinter
 
 Esta documentação descreve o código-fonte fornecido para uma calculadora simples com uma interface gráfica usando a biblioteca Tkinter. A calculadora permite realizar operações básicas de adição, subtração, multiplicação e divisão, além de cálculos de porcentagem.
 
